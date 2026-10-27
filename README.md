@@ -12,7 +12,7 @@
 
 ## <img src="https://img.shields.io/badge/My-Links-1b4965?style=for-the-badge&logo=github&logoColor=white" alt="My Links" />
 
-<img src=["https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif"](https://pin.it/fe1GEP4vg) width="360" align="right" />
+<img src="https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif" width="360" align="right" />
 
 -  &nbsp;**My Projects** → [github.com/Rekha-45?tab=repositories](https://github.com/Rekha-45?tab=repositories)
 -  &nbsp;**LinkedIn** → [in/rekha-r45](https://www.linkedin.com/in/rekha-r45)

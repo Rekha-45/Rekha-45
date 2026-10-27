@@ -14,7 +14,7 @@
 
 <img src="./programmer-day.gif"
      alt="Programmer Day animation"
-     width="360"
+     width="300"
      align="right" />
 
 -  &nbsp;**My Projects** → [github.com/Rekha-45?tab=repositories](https://github.com/Rekha-45?tab=repositories)

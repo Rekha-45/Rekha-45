@@ -12,7 +12,7 @@
 
 ## <img src="https://img.shields.io/badge/My-Links-1b4965?style=for-the-badge&logo=github&logoColor=white" alt="My Links" />
 
-<img src="./Programmer%20Day%20-%20Porforever.gif"
+<img src="./programmer-day.gif"
      alt="Programmer Day animation"
      width="360"
      align="right" />

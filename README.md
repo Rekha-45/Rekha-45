@@ -10,24 +10,20 @@
 
 ---
 
-## --My Links
+## <img src="https://img.shields.io/badge/My-Links-1b4965?style=for-the-badge&logo=github&logoColor=white" alt="My Links" />
 
-<p align="center">
-  <a href="https://github.com/Rekha-45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://media1.tenor.com/m/F0JE157P1loAAAAd/mio-akiyama-computer.gif" width="360" align="right" />
 
--  **GitHub:** [Explore my repositories](https://github.com/Rekha-45?tab=repositories)
--  **LinkedIn:** www.linkedin.com/in/rekha-r45
--  **Email:** rekha.r4455@gmail.com
+-  &nbsp;**My Projects** → [github.com/Rekha-45?tab=repositories](https://github.com/Rekha-45?tab=repositories)
+-  &nbsp;**LinkedIn** → [in/rekha-r45](https://www.linkedin.com/in/rekha-r45)
+-  &nbsp;**Email** → [rekha,r4455@gmail.com](mailto:rekha.r4455@gmail.com)
+-  &nbsp;**College** → Presidency University, Bangalore
+
+<br clear="right" />
 
 ---
 
-## --About Me
+## About Me
 
 Hi there! I'm Rekha, a Computer Science and Engineering student passionate about software development, artificial intelligence, and building technology-driven solutions.
 
@@ -45,7 +41,7 @@ I enjoy learning new technologies, participating in hackathons, experimenting wi
 
 ---
 
-## --Focus Areas
+## Focus Areas
 
 - Full-Stack Web Development
 - Java Application Development
@@ -60,7 +56,7 @@ I enjoy learning new technologies, participating in hackathons, experimenting wi
 
 ---
 
-## --Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -90,7 +86,9 @@ I enjoy learning new technologies, participating in hackathons, experimenting wi
 
 ---
 
-## --Featured Projects
+## Featured Projects
+
+---
 
 ###  1. Pharmacogenomic Variant Analysis — PharmaGuard
 
@@ -115,6 +113,8 @@ An AI-assisted pharmacogenomics project that analyzes genetic variants to provid
   </a>
 </p>
 
+---
+
 ###  2. Arogya Mitra
 
 **Domain:** Healthcare | AI | Web Development
@@ -129,6 +129,8 @@ A healthcare-focused application exploring AI-assisted health information and us
 
 🔗 [View Repository](https://github.com/Rekha-45/Arogya-Mitra)
 
+---
+
 ###  3. MediTrack
 
 **Domain:** Healthcare | Application Development
@@ -138,6 +140,8 @@ A healthcare-related project focused on organizing medical information and suppo
 **Focus:** Application development, data organization, and healthcare-oriented digital solutions.
 
 🔗 [View Repository](https://github.com/Rekha-45/meditrack)
+
+---
 
 ###  4. Learn-Axis — Student Mentor Application
 
@@ -149,6 +153,8 @@ A student-oriented application focused on learning support and mentorship.
 
 🔗 [View Repository](https://github.com/Rekha-45/Learn-Axis-Student-Mentor-Application)
 
+---
+
 ###  5. Learning Stage
 
 **Domain:** Education | Application Development
@@ -156,6 +162,8 @@ A student-oriented application focused on learning support and mentorship.
 An educational project exploring application development and learning-oriented workflows.
 
 🔗 [View Repository](https://github.com/Rekha-45/learning_stage)
+
+---
 
 ###  6. Nest Guard Shield
 
@@ -165,6 +173,8 @@ A project exploring technology-based protection and safety solutions.
 
 🔗 [View Repository](https://github.com/Rekha-45/nest-guard-shield)
 
+---
+
 ###  7. Fruits Shop
 
 **Domain:** Web Development | E-Commerce
@@ -173,6 +183,8 @@ A web project exploring an online fruit-shopping experience and shopping-oriente
 
 🔗 [View Repository](https://github.com/Rekha-45/fruits_shop)
 
+---
+
 ###  8. MediShield AI
 
 **Domain:** Healthcare | Artificial Intelligence
@@ -180,6 +192,8 @@ A web project exploring an online fruit-shopping experience and shopping-oriente
 A healthcare-related AI project exploring technology-assisted medical workflows.
 
 🔗 [View Repository](https://github.com/Vekatesh2004/MediShield-AI)
+
+---
 
 ###  9. AR/VR Cultural Heritage Preservation
 
@@ -195,7 +209,7 @@ A hackathon project exploring how immersive technology can help preserve and pre
 
 ---
 
-## --Ideas and Emerging Technology 
+## Ideas and Emerging Technology 
 
 The following are ideas 
 
@@ -209,7 +223,7 @@ The following are ideas
 
 ---
 
-## --Computer Science Concepts I Lernt
+## Computer Science Concepts I Lernt
 
 | Area | Concepts |
 |---|---|
@@ -231,7 +245,7 @@ The following are ideas
 
 ---
 
-## --Achievements
+## Achievements
 
 | Achievement | Recognition |
 |---|---|
@@ -243,7 +257,7 @@ The following are ideas
 
 ---
 
-## --Professional Interests
+## Professional Interests
 
 - Building efficient, maintainable, and scalable applications.
 - Developing AI-powered software and intelligent solutions.
@@ -255,7 +269,7 @@ The following are ideas
 
 ---
 
-## --GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rekha-45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
@@ -268,7 +282,7 @@ The following are ideas
 
 ---
 
-## --Profile Visitors
+## Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rekha-45&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile visitor counter"/>
@@ -276,7 +290,7 @@ The following are ideas
 
 ---
 
-## --Let's Connect..
+## Let's Connect..
 
 I'm always interested in learning new technologies, exchanging ideas, collaborating on projects, and building solutions that make a difference.
 
@@ -290,12 +304,12 @@ I'm always interested in learning new technologies, exchanging ideas, collaborat
 </p>
 
 <p align="center">
-  <i>"Code. Build. Learn. Repeat."</i>
+  <i><b>Code. Build. Learn. Repeat</b></i>
 </p>
 
-<p align="center">
+<p align="center"><b>
   Thanks for visiting my profile!..
-</p>
+</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,50:1b4965,100:0d1b2a&height=120&section=footer" width="100%" alt="GitHub profile footer"/>

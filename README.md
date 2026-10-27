@@ -1,14 +1,16 @@
-<!-- ==================== HEADER ==================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:142D4E,100:2563EB&text=REKHA%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20%7C%20AI%2FML%20%7C%20DevOps&descSize=17&descAlignY=58&animation=fadeIn&fontAlign=50" width="100%" alt="Rekha's GitHub banner"/>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:4361ee&height=190&section=header&text=REKHA%20R&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=Software%20Development%20%7C%20AI%2FML%20%7C%20DevOps&descAlignY=52&descSize=17&animation=fadeIn" width="100%" alt="Rekha GitHub banner"/>
 </p>
 
-<h3 align="center">Building. Learning. Experimenting. Improving.</h3>
+<h3 align="center">Computer Science & Engineering | Software Development | AI & Emerging Technologies</h3>
 
 <p align="center">
-  Computer Science Engineering Student | Aspiring Software Engineer
+  <i>Learn continuously. Build creatively. Solve real-world problems.</i>
 </p>
+
+---
+
+## --My Links
 
 <p align="center">
   <a href="https://github.com/Rekha-45">
@@ -17,148 +19,92 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-7C3AED?style=for-the-badge" alt="Continuous learning"/>
+</p>
+
+-  **GitHub:** [Explore my repositories](https://github.com/Rekha-45?tab=repositories)
+-  **LinkedIn:** www.linkedin.com/in/rekha-r45
+-  **Email:** rekha.r4455@gmail.com
+
+---
+
+## --About Me
+
+Hi there! I'm Rekha, a Computer Science and Engineering student passionate about software development, artificial intelligence, and building technology-driven solutions.
+
+I enjoy learning new technologies, participating in hackathons, experimenting with ideas, and developing projects that address real-world problems. My interests span full-stack development, AI-powered applications, DevOps, cloud computing, and emerging technologies.
+
+-  Pursuing B.Tech in Computer Science and Engineering.
+-  Learning and building software applications using Java and web technologies.
+-  Exploring AI, Machine Learning, neural networks, LLMs, and RAG.
+-  Interested in DevOps, CI/CD automation, Git, GitHub, and cloud technologies.
+-  Participating in hackathons and collaborative technical activities.
+-  Exploring robotics, machine vision, cryptography, and quantum computing.
+-  Continuously improving my programming, problem-solving, and software engineering skills.
+
+> My goal is to become a versatile software engineer who can understand problems, design solutions, build useful applications, and continuously improve them.
+
+---
+
+## --Focus Areas
+
+- Full-Stack Web Development
+- Java Application Development
+- Artificial Intelligence and Machine Learning
+- Generative AI and LLM Applications
+- DevOps and CI/CD Automation
+- Cloud Computing
+- Data Analysis and Predictive Analytics
+- Healthcare Technology
+- Robotics and Computer Vision
+- Hackathons and Rapid Prototyping
+
+---
+
+## --Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,c,js,ts" alt="Java, Python, C, JavaScript and TypeScript"/></a> |
+| **Front-End Development** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, React, Next.js and Tailwind CSS"/></a> |
+| **Back-End Development** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" alt="Node.js, Express, FastAPI and Spring"/></a> |
+| **Java Full Stack** | Java, OOP, JDBC, Servlets, JSP, Spring ecosystem |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" alt="MySQL, PostgreSQL, MongoDB and Supabase"/></a> |
+| **AI & Machine Learning** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,python" alt="TensorFlow and Python"/></a> Neural Networks, ANN, CNN, RNN, Machine Learning |
+| **Generative AI** | LLMs, RAG, Embeddings, Prompt Engineering, OpenAI API |
+| **Data Analysis** | Python, Data Processing, Data Analysis, Predictive Analytics |
+| **DevOps & CI/CD** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux" alt="Git, GitHub, Docker, GitHub Actions and Linux"/></a> |
+| **Cloud Computing** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a> Cloud Infrastructure and Deployment |
+| **APIs & Backend Services** | REST APIs, FastAPI, Node.js, OpenAI API |
+| **AI Application Development** | AI Integration, LLM Applications, RAG-Based Applications |
+| **Developer Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="VS Code, Postman and Figma"/></a> |
+| **Deployment & Hosting** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel,render" alt="Vercel and Render"/></a> |
+| **Computer Science Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+| **Cybersecurity** | Cryptography, Security Awareness, Application Security Concepts |
+| **Robotics & Computer Vision** | Machine Vision, Object Detection, YOLO Concepts |
+| **Quantum Computing** | Quantum Computing Fundamentals, Grover's Algorithm, Shor's Algorithm |
+| **Design & Prototyping** | UI/UX Design, Figma, Rapid Prototyping, Hackathon Development |
+
+<p align="center">
+  <i>Learning, experimenting, and strengthening my skills through practical projects.</i>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## --Featured Projects
 
-Hey! I'm **Rekha**, a Computer Science and Engineering student who enjoys exploring new technologies, developing applications, participating in hackathons, and turning ideas into working solutions.
+###  1. Pharmacogenomic Variant Analysis — PharmaGuard
 
-My interests span software engineering, AI-powered applications, cloud computing, and DevOps. I enjoy learning by building projects, experimenting with unfamiliar technologies, and collaborating with people who are passionate about solving real-world problems.
+**Domain:** AI | Healthcare | Explainable Analysis
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering.
-- 💻 Learning and building with Java, web technologies, databases, and software development tools.
-- 🤖 Exploring AI, Machine Learning, neural networks, LLMs, and RAG.
-- ⚙️ Developing my understanding of DevOps, automation, cloud infrastructure, and CI/CD.
-- 🚀 Participating in hackathons and developing solutions for practical challenges.
-- 🧠 Exploring emerging fields such as robotics, machine vision, and quantum computing.
-- 🌱 Continuously improving my programming, problem-solving, and engineering skills.
+An AI-assisted pharmacogenomics project that analyzes genetic variants to provide insights into potential medication-response risks.
 
-> My goal is to become a versatile software engineer who can understand a problem, design a solution, build it, and improve it through continuous learning.
-
----
-
-## 🧭 My Technical Universe
-
-My learning journey covers multiple areas of computer science. Here is an overview of the technologies I have worked with, studied, or explored.
-
-| Domain | Technologies and Topics | Focus |
-|---|---|---|
-| Programming Languages | Java, Python, C, JavaScript, TypeScript | Programming fundamentals and application development |
-| Core Computer Science | DSA, OOP, DBMS, Operating Systems, Computer Networks | Strengthening software engineering fundamentals |
-| Web Development | HTML, CSS, JavaScript, React, Next.js, Tailwind CSS | Building responsive web applications |
-| Java Full Stack | Java, OOP, JDBC, Servlets, JSP, Spring ecosystem | Understanding full-stack application development |
-| Backend Development | Node.js, FastAPI, REST APIs | Building application logic and APIs |
-| Databases | MySQL, PostgreSQL, MongoDB, Supabase | Data storage and management |
-| AI and Machine Learning | Machine Learning, neural networks, ANN, CNN, RNN, TensorFlow | Exploring intelligent systems |
-| Generative AI | LLMs, OpenAI API, prompt engineering, embeddings, RAG | Building AI-powered applications |
-| Data Analysis | Python, data processing, predictive analytics | Understanding data and extracting insights |
-| Cloud Computing | AWS, cloud deployment, cloud infrastructure | Learning scalable application deployment |
-| DevOps | Git, GitHub, Docker, CI/CD, GitHub Actions, Linux | Automation and software delivery |
-| Deployment | Vercel, Render | Deploying and sharing applications |
-| AI Application Interfaces | Streamlit, Gradio | Prototyping AI and data-driven applications |
-| API Development and Testing | REST, Postman | API integration and testing |
-| UI/UX and Design | Figma, interface design, prototyping | Exploring user experience and visual design |
-| Cybersecurity | Cryptography, security awareness, application security concepts | Understanding security and protection |
-| Robotics and Computer Vision | Machine vision, object detection, YOLO concepts | Exploring vision-based intelligent systems |
-| Quantum Computing | Quantum computing fundamentals, Grover's algorithm, Shor's algorithm concepts | Exploring emerging computational paradigms |
-| Mobile Development | Android Studio | Exploring mobile application development |
-| Software Engineering | Debugging, testing concepts, version control, project collaboration | Developing maintainable software |
-
-**Note:** This table covers both practical experience and learning interests. Inclusion does not imply professional proficiency in every technology. I aim to keep improving through implementation and hands-on practice.
-
----
-
-## 🛠️ Technology Stack
-
-### Programming Languages
-
-| Technology | Primary Interest |
-|---|---|
-| Java | OOP, application development, Java Full Stack |
-| Python | AI/ML, data processing, scripting, backend development |
-| C | Programming fundamentals and problem-solving |
-| JavaScript | Interactive web applications |
-| TypeScript | Type-safe web application development |
-| SQL | Database queries and relational data management |
-
-### Frontend Development
-
-| Technology | What I Explore |
-|---|---|
-| HTML5 | Web page structure |
-| CSS3 | Styling and responsive layouts |
-| JavaScript | Browser interactions and application logic |
-| React | Component-based user interfaces |
-| Next.js | Full-stack React applications |
-| Tailwind CSS | Utility-first styling |
-
-### Backend and Databases
-
-| Technology | What I Explore |
-|---|---|
-| Node.js | JavaScript backend development |
-| FastAPI | Python APIs and backend services |
-| REST APIs | Communication between application components |
-| JDBC | Java database connectivity |
-| MySQL | Relational databases |
-| PostgreSQL | Relational data storage |
-| MongoDB | Document-oriented databases |
-| Supabase | Database services and application backends |
-
-### AI, Machine Learning and Generative AI
-
-| Technology / Concept | Learning and Application Areas |
-|---|---|
-| Python for AI | Data processing and experimentation |
-| TensorFlow | Machine learning and neural networks |
-| ANN and CNN | Neural network fundamentals |
-| RNN | Sequence-processing concepts |
-| Machine Learning | Predictive modelling concepts |
-| LLMs | AI-powered application development |
-| OpenAI API | Integrating language models into applications |
-| Embeddings | Representing text for semantic comparison and retrieval |
-| RAG | Combining information retrieval with language models |
-| AI-assisted analysis | Generating explanations and interpreting results |
-
-### DevOps, Cloud and Developer Tools
-
-| Technology | What I Explore |
-|---|---|
-| Git | Version control |
-| GitHub | Repository management and collaboration |
-| Docker | Containerization |
-| GitHub Actions | Workflow automation and CI/CD |
-| Linux | Command-line and system fundamentals |
-| AWS | Cloud infrastructure and services |
-| Vercel | Web application deployment |
-| Render | Application and API deployment |
-| Postman | API testing |
-| VS Code | Development environment |
-| Figma | UI/UX design and prototyping |
-
----
-
-## 🚀 Project Portfolio
-
-I enjoy working on projects that connect software development with real-world problems. The following portfolio includes my known repositories and additional project work.
-
-### 01. 🧬 PharmaGuard — Pharmacogenomic Variant Analysis
-
-**Domain:** AI | Healthcare Technology | Explainable Analysis
-
-A pharmacogenomics project designed to analyze genetic variants and provide insights into potential medication-response risks.
-
-**Key capabilities**
 - Upload genetic variant files in VCF format.
-- Analyze supported variants in relation to selected medications.
-- Present risk classifications and drug-response insights.
-- Generate explanations for identified risks.
-- Download analysis results as JSON.
+- Select medications for variant analysis.
+- Generate drug-response risk classifications.
+- Present AI-assisted explanations of genetic findings.
+- Download analysis results in JSON format.
 
-**Technologies:** React, Next.js, TypeScript, Python/FastAPI, Supabase/PostgreSQL, OpenAI API.
+**Technologies:** React, Next.js, TypeScript, AI integration.
 
 <p>
   <a href="https://github.com/Harshini2005-coder/Pharmacogenomic-Variant-Analysis">
@@ -169,242 +115,188 @@ A pharmacogenomics project designed to analyze genetic variants and provide insi
   </a>
 </p>
 
----
-
-### 02. 🩺 Arogya Mitra
+###  2. Arogya Mitra
 
 **Domain:** Healthcare | AI | Web Development
 
-A healthcare-focused application exploring how AI and web technologies can help users access health-related information and understand potential concerns.
+A healthcare-focused application exploring AI-assisted health information and user-friendly digital health experiences.
 
-**Areas of work**
-- Healthcare-oriented user interface.
-- AI-assisted information and interaction.
+- Healthcare-oriented application interface.
+- AI integration for health-related interactions.
 - Web application development and API integration.
 
 **Technologies:** React, Next.js, TypeScript, AI APIs.
 
-🔗 [Explore Repository](https://github.com/Rekha-45/Arogya-Mitra)
+🔗 [View Repository](https://github.com/Rekha-45/Arogya-Mitra)
 
----
-
-### 03. 💊 MediTrack
+###  3. MediTrack
 
 **Domain:** Healthcare | Application Development
 
-A healthcare-related application focused on organizing medical information and supporting tracking workflows.
+A healthcare-related project focused on organizing medical information and supporting tracking workflows.
 
-**Learning areas:** Application design, data organization, and healthcare-oriented software development.
+**Focus:** Application development, data organization, and healthcare-oriented digital solutions.
 
-🔗 [Explore Repository](https://github.com/Rekha-45/meditrack)
+🔗 [View Repository](https://github.com/Rekha-45/meditrack)
 
----
-
-### 04. 🎓 Learn-Axis — Student Mentor Application
+###  4. Learn-Axis — Student Mentor Application
 
 **Domain:** Education Technology | Web Development
 
 A student-oriented application focused on learning support and mentorship.
 
-**Learning areas:** User-focused application development, interface design, and organizing educational workflows.
+**Focus:** Student learning workflows, application design, and educational technology.
 
-🔗 [Explore Repository](https://github.com/Rekha-45/Learn-Axis-Student-Mentor-Application)
+🔗 [View Repository](https://github.com/Rekha-45/Learn-Axis-Student-Mentor-Application)
 
----
-
-### 05. 📚 Learning Stage
+###  5. Learning Stage
 
 **Domain:** Education | Application Development
 
-A project in the education and learning space.
+An educational project exploring application development and learning-oriented workflows.
 
-**Focus:** Exploring application development through an educational project.
+🔗 [View Repository](https://github.com/Rekha-45/learning_stage)
 
-🔗 [Explore Repository](https://github.com/Rekha-45/learning_stage)
-
----
-
-### 06. 🛡️ Nest Guard Shield
+###  6. Nest Guard Shield
 
 **Domain:** Safety | Technology Solutions
 
 A project exploring technology-based protection and safety solutions.
 
-**Focus:** Application development and problem-solving.
+🔗 [View Repository](https://github.com/Rekha-45/nest-guard-shield)
 
-🔗 [Explore Repository](https://github.com/Rekha-45/nest-guard-shield)
+###  7. Fruits Shop
 
----
+**Domain:** Web Development | E-Commerce
 
-### 07. 🍎 Fruits Shop
+A web project exploring an online fruit-shopping experience and shopping-oriented interfaces.
 
-**Domain:** Web Development | E-Commerce Concepts
+🔗 [View Repository](https://github.com/Rekha-45/fruits_shop)
 
-A fruit-shopping web project that explores the development of an online shopping experience.
-
-**Learning areas:** Web interfaces, product presentation, and shopping-oriented workflows.
-
-🔗 [Explore Repository](https://github.com/Rekha-45/fruits_shop)
-
----
-
-### 08. 🏥 MediShield AI
+###  8. MediShield AI
 
 **Domain:** Healthcare | Artificial Intelligence
 
 A healthcare-related AI project exploring technology-assisted medical workflows.
 
-**Focus:** Exploring the intersection of AI and healthcare applications.
+🔗 [View Repository](https://github.com/Vekatesh2004/MediShield-AI)
 
-🔗 [Explore Repository](https://github.com/Vekatesh2004/MediShield-AI)
-
----
-
-### 09. 🏛️ AR/VR Cultural Heritage Preservation
+###  9. AR/VR Cultural Heritage Preservation
 
 **Domain:** AR/VR | Cultural Heritage | Immersive Technology
 
-A hackathon project focused on using immersive technology to support the preservation and presentation of cultural heritage.
+A hackathon project exploring how immersive technology can help preserve and present cultural heritage.
 
-**Key idea**
-- Explore digital representations of cultural heritage.
-- Use immersive experiences to improve engagement.
-- Investigate how AR/VR can help present heritage-related information.
+- Explore digital representations of heritage.
+- Investigate immersive experiences for cultural engagement.
+- Apply AR/VR concepts to a real-world problem statement.
 
-🏅 **Achievement:** Top 40 Inter-College Finalist — Smart India Hackathon 2025.
-
----
-
-### 10. 📊 AI-Powered Predictive Analytics
-
-**Domain:** Artificial Intelligence | Machine Learning | Data Analysis
-
-A project area focused on using data and machine learning concepts to explore predictive insights.
-
-**Learning areas**
-- Data analysis and preprocessing.
-- Understanding predictive modelling.
-- Exploring how machine learning can support decision-making.
-
-*Add the corresponding repository link and dataset details when available.*
+🏅 **Recognition:** Top 40 Inter-College Finalist — Smart India Hackathon 2025.
 
 ---
 
-### 11. ☕ Java Full Stack Applications
+## --Ideas and Emerging Technology 
 
-**Domain:** Software Engineering | Full-Stack Development
+The following are ideas 
 
-Practical learning and application development associated with Java Full Stack training.
-
-**Areas explored**
-- Java and object-oriented programming.
-- Backend application logic.
-- Database connectivity and SQL.
-- Web application architecture.
-- Frontend and backend integration.
-
-*Add individual project names and repository links as they become available.*
-
----
-
-## 💡 Ideas and Emerging Project Interests
-
-In addition to application development, I have explored ideas in emerging technology areas.
-
-These are **exploration areas and concepts, not claims of completed or deployed projects**.
-
-| Project Concept | Domain | Core Idea |
+| Idea | Domain | Concept |
 |---|---|---|
-| NaariVerse | AI for Social Impact | A voice-first, offline-oriented companion concept for rural women |
-| TrustLedger | FinTech | Exploring financial identity and alternative financial profiles for gig workers |
-| Cross-Border Tuition FinTech | FinTech | Exploring technology-enabled international tuition payment workflows |
-| AI Critical-Infrastructure Threat Detection | AI and Cybersecurity | Investigating AI-assisted detection of cyber and physical anomalies |
-| Cybersecurity Awareness Platform | Cybersecurity | Creating educational content about OTP scams, malicious links, and online safety |
-
-These ideas reflect my interest in applying technology to practical challenges across different industries.
+| **NaariVerse** | AI for Social Impact | A voice-first, offline-oriented digital companion concept for rural women |
+| **TrustLedger** | FinTech | Exploring alternative financial identity for gig workers |
+| **AI Critical-Infrastructure Threat Detection** | AI & Cybersecurity | Investigating AI-assisted detection of cyber and physical anomalies |
+| **Cybersecurity Awareness** | Cybersecurity | Educational content about OTP scams, malicious links, and online safety |
+| **AI-Powered Predictive Analytics** | AI & Data Analysis | Exploring data-driven predictions and decision-support systems |
 
 ---
 
-## 🏆 Achievements and Recognition
-
-| Achievement | Recognition |
-|---|---|
-| Google DevOps Hackathon | 🥇 First Prize |
-| Smart India Hackathon 2025 | 🏅 Top 40 Inter-College Finalist — AR/VR problem statement |
-| Arogya Mitra 2.0 | 🏆 First Place — National Inter-College Hackathon 2025 |
-| Technical Hackathons | Participated in innovation-focused competitions |
-| Technical Workshops | Explored topics including quantum computing |
-| Technical Communities | Participated in collaborative technical learning activities |
-
----
-
-## 🧠 Computer Science Concepts I Am Learning
+## --Computer Science Concepts I Lernt
 
 | Area | Concepts |
 |---|---|
-| Programming | Variables, functions, loops, recursion, debugging |
-| Object-Oriented Programming | Classes, objects, inheritance, polymorphism, abstraction, encapsulation |
-| Data Structures | Arrays, linked lists, stacks, queues, trees, heaps, graphs, hash tables |
-| Algorithms | Searching, sorting, recursion, traversal, problem-solving techniques |
-| Database Systems | SQL, relational models, joins, normalization, transactions |
-| Operating Systems | Processes, threads, memory management, scheduling |
-| Computer Networks | Networking fundamentals, protocols, client-server communication |
-| Software Engineering | Application architecture, modularity, testing concepts, maintainability |
-| Artificial Intelligence | Rule-based, statistical, and neural approaches |
-| NLP | Text representations, embeddings, similarity, language models |
-| Machine Learning | Neural networks, model training concepts, predictive analysis |
-| DevOps | Version control, build automation, deployment, CI/CD |
-| Security | Cryptography fundamentals, security awareness, secure application concepts |
-| Emerging Computing | Quantum computing, robotics, and machine vision |
+| **Programming** | Variables, Functions, Loops, Recursion, Debugging |
+| **Object-Oriented Programming** | Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction |
+| **Data Structures** | Arrays, Linked Lists, Stacks, Queues, Trees, Heaps, Graphs, Hash Tables |
+| **Algorithms** | Searching, Sorting, Recursion, Traversal, Problem-Solving Techniques |
+| **Database Systems** | SQL, Joins, Normalization, Transactions, Relational Models |
+| **Operating Systems** | Processes, Threads, Memory Management, Scheduling |
+| **Computer Networks** | Networking Fundamentals, Protocols, Client-Server Communication |
+| **Software Engineering** | Application Architecture, Modularity, Debugging, Testing Concepts |
+| **Artificial Intelligence** | Rule-Based, Statistical, and Neural Approaches |
+| **Natural Language Processing** | Text Representations, Word Embeddings, Similarity, Language Models |
+| **Machine Learning** | ANN, CNN, RNN, Neural Networks, Predictive Modelling |
+| **Generative AI** | LLMs, Embeddings, Retrieval-Augmented Generation |
+| **DevOps** | Version Control, Build Automation, Deployment, CI/CD |
+| **Security** | Cryptography Fundamentals, Security Awareness, Secure Application Concepts |
+| **Emerging Computing** | Quantum Computing, Robotics, Machine Vision |
 
 ---
 
-## 📈 GitHub Analytics
+## --Achievements
+
+| Achievement | Recognition |
+|---|---|
+| **Google DevOps Hackathon** | 🥇 First Prize |
+| **Smart India Hackathon 2025** | 🏅 Top 40 Inter-College Finalist — AR/VR Problem Statement |
+| **Technical Hackathons** | Participation in innovation-focused competitions |
+| **Technical Workshops** | Participation in workshops, including quantum computing |
+| **Technical Communities** | Collaborative learning and technical activities |
+
+---
+
+## --Professional Interests
+
+- Building efficient, maintainable, and scalable applications.
+- Developing AI-powered software and intelligent solutions.
+- Exploring DevOps automation and continuous integration.
+- Learning cloud infrastructure and deployment workflows.
+- Solving programming and data structure problems.
+- Collaborating with developers and participating in hackathons.
+- Applying emerging technologies to real-world challenges.
+
+---
+
+## --GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rekha-45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekha-45&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rekha-45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekha-45&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Most-used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rekha-45&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rekha-45&theme=tokyonight&no-frame=true&margin-w=8&column=4" width="95%" alt="GitHub profile trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=Rekha-45&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-## 🌱 What I Am Focusing On
+## --Profile Visitors
 
-- Strengthening Java, OOP, DSA, and problem-solving.
-- Improving full-stack application development.
-- Building practical AI/ML and LLM-based applications.
-- Learning DevOps workflows, CI/CD, Docker, and cloud infrastructure.
-- Improving Git/GitHub collaboration and project documentation.
-- Developing stronger software engineering fundamentals.
-- Participating in hackathons and collaborating on meaningful projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rekha-45&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile visitor counter"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## --Let's Connect..
 
-I'm interested in learning from developers, collaborating on projects, exploring new technologies, and contributing to solutions that make a difference.
+I'm always interested in learning new technologies, exchanging ideas, collaborating on projects, and building solutions that make a difference.
 
 <p align="center">
   <a href="https://github.com/Rekha-45">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Every project is an opportunity to learn something new."</i>
+  <i>"Code. Build. Learn. Repeat."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:142D4E,100:0D1117&section=footer" width="100%" alt="Footer banner"/>
+  Thanks for visiting my profile!..
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,50:1b4965,100:0d1b2a&height=120&section=footer" width="100%" alt="GitHub profile footer"/>
 </p>
